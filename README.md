@@ -11,7 +11,7 @@ Three 3's 	300 points
 Three 4's 	400 points
 Three 5's 	500 points
 Three 6's 	600 points
-1-2-3-4-5  	1500 points
+1-2-3-4-5-6 3000 points
 
 Note that scoring combinations only count when made with a single throw. (Example: If a player rolls a 1 and sets it aside and then rolls two 1’s on their next throw, they only score 300 points, not 1000.)
 
